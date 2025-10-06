@@ -28,11 +28,11 @@ def add_task(description):
 
 
     new_task = {
-          "id": next_id,
-          "description": description,
-          "status": "todo",
-          "createdAt": datetime.now().isoformat(),
-          "updatedAt": datetime.now().isoformat()
+        "id": next_id,
+        "description": description,
+        "status": "todo",
+        "createdAt": datetime.now().isoformat(),
+        "updatedAt": datetime.now().isoformat()
     }
 
     tasks.append(new_task)
