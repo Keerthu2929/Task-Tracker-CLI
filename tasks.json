@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "description": "Learn Python and Django",
+    "status": "done",
+    "createdAt": "2025-10-06T19:09:12.402078",
+    "updatedAt": "2025-10-06T19:37:03.109442"
+  },
+  {
+    "id": 2,
+    "description": "Build a project",
+    "status": "in-progress",
+    "createdAt": "2025-10-06T19:09:52.929666",
+    "updatedAt": "2025-10-06T20:08:20.186167"
+  },
+  {
+    "id": 3,
+    "description": "buy groceries and cook dinner",
+    "status": "todo",
+    "createdAt": "2025-10-06T19:25:38.671961",
+    "updatedAt": "2025-10-06T19:27:43.687184"
+  },
+  {
+    "id": 4,
+    "description": "develop the website",
+    "status": "done",
+    "createdAt": "2025-10-06T19:41:45.833034",
+    "updatedAt": "2025-10-06T20:06:51.502338"
+  },
+  {
+    "id": 5,
+    "description": "update project document",
+    "status": "in-progress",
+    "createdAt": "2025-10-06T19:49:34.674258",
+    "updatedAt": "2025-10-06T20:07:57.703483"
+  },
+  {
+    "id": 6,
+    "description": "i want to learn python",
+    "status": "done",
+    "createdAt": "2025-10-06T19:51:26.695406",
+    "updatedAt": "2025-10-06T20:06:16.388260"
+  },
+  {
+    "id": 7,
+    "description": "Build the java project",
+    "status": "todo",
+    "createdAt": "2025-10-06T19:52:31.272517",
+    "updatedAt": "2025-10-06T19:52:31.272542"
+  },
+  {
+    "id": 8,
+    "description": "now i go to finish my task",
+    "status": "in-progress",
+    "createdAt": "2025-10-06T19:53:16.644778",
+    "updatedAt": "2025-10-06T20:07:39.096094"
+  },
+  {
+    "id": 9,
+    "description": "project building the c++",
+    "status": "done",
+    "createdAt": "2025-10-06T19:54:13.346320",
+    "updatedAt": "2025-10-06T20:06:40.111172"
+  },
+  {
+    "id": 10,
+    "description": "Updated task description",
+    "status": "todo",
+    "createdAt": "2025-10-06T19:56:42.541556",
+    "updatedAt": "2025-10-06T20:04:22.248905"
+  },
+  {
+    "id": 11,
+    "description": "now i go to prepare the food from night",
+    "status": "done",
+    "createdAt": "2025-10-06T20:01:38.751783",
+    "updatedAt": "2025-10-06T20:07:08.439508"
+  }
+]
